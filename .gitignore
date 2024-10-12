@@ -1,0 +1,7 @@
+# Папки
+__pycache__/
+.venv/
+*Augmented/
+
+# Файлы
+yolo11n.pt
